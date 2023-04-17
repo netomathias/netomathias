@@ -10,6 +10,5 @@ Hi there! I'm Neto, a passionate programmer with 3 years of experience in develo
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=netomathias&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=netomathias&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=netomathias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
